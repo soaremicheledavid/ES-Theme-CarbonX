@@ -22,6 +22,9 @@ Carbon fiber inspired theme, wanted to make a theme that look like SimpleMenu Em
 
 ![ENTERBOX](https://github.com/soaremicheledavid/ES-Theme-CarbonX/assets/157101299/c916f3f4-e99a-47b0-a77f-b8009184e517)
 
+Suggestions :
+Try this combinations in theme configuration : GamelistView Style - GRID, Grid Size - 1X1, Theme Background - CARBON3 (On the left you have the screenshot with game name and on the right the boxart)
+
 
 # LICENSE CC BY-NC-SA 4.0 © SMD OFFICIAL
 
