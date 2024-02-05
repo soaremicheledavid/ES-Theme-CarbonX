@@ -16,9 +16,9 @@ Carbon fiber inspired theme, wanted to make a theme that look like SimpleMenu Em
 
 # Screenshots :
 
-![FRONTBOX](https://github.com/soaremicheledavid/ES-Theme-CarbonX/assets/157101299/81ff0965-7b19-4f46-9359-5cb6370cbd96)
-
 ![FRONTBOX2](https://github.com/soaremicheledavid/ES-Theme-CarbonX/assets/157101299/df0bca5f-bdda-49a1-87ae-7ec25076e6fe)
+
+![FRONTBOX](https://github.com/soaremicheledavid/ES-Theme-CarbonX/assets/157101299/81ff0965-7b19-4f46-9359-5cb6370cbd96)
 
 ![ENTERBOX](https://github.com/soaremicheledavid/ES-Theme-CarbonX/assets/157101299/c916f3f4-e99a-47b0-a77f-b8009184e517)
 
