@@ -14,6 +14,8 @@ Carbon fiber inspired theme, wanted to make a theme that look like SimpleMenu Em
 # Sound :
 - SCROLL sound, only on menu, not on gamelist, for a better experience.
 
+# Screenshots :
+
 ![FRONTBOX](https://github.com/soaremicheledavid/ES-Theme-CarbonX/assets/157101299/81ff0965-7b19-4f46-9359-5cb6370cbd96)
 
 ![FRONTBOX2](https://github.com/soaremicheledavid/ES-Theme-CarbonX/assets/157101299/e95788dd-ade0-4a15-a9be-23fbe6ed9a8d)
