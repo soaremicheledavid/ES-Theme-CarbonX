@@ -9,7 +9,7 @@ Carbon fiber inspired theme, wanted to make a theme that look like SimpleMenu Em
 - GRID
   
 # Backgrounds :
-- 5 CARBONFIBER INSPIRED WALLPAPERS
+- 6 CARBON FIBER INSPIRED WALLPAPERS
 
 # Sound :
 - SCROLL sound, only on menu, not on gamelist, for a better experience.
