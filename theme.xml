@@ -79,7 +79,7 @@ Author: SMD © 2024
     </image>
     <helpsystem name="help">
       <origin>0 0</origin>
-      <pos>0.18 0.92</pos>
+      <pos>0.18 0.94</pos>
       <textColor>ffffff</textColor>
       <iconColor>ffffff</iconColor>
     </helpsystem>
@@ -288,6 +288,7 @@ Author: SMD © 2024
     <include name="carbon3">./assets/Carbon3.xml</include>
     <include name="carbon4">./assets/Carbon4.xml</include>
     <include name="carbon5">./assets/Carbon5.xml</include>
+    <include name="carbon6">./assets/Carbon6.xml</include>
   </subset>
 </theme>
 
