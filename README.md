@@ -25,6 +25,8 @@ Carbon fiber inspired theme, wanted to make a theme that look like SimpleMenu Em
 Suggestions :
 Try this combinations in theme configuration : GamelistView Style - GRID, Grid Size - 1X1, Theme Background - CARBON3 (On the left you have the screenshot with game name and on the right the boxart)
 
+## **Acknowledgments**
+* Most system logos were sourced and modified from the excellent work done by Dan Patrick [here](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions).  They have been modified to be compatible with EmulationStation's current SVG support. Some was updated by me.
 
 # LICENSE CC BY-NC-SA 4.0 © SMD OFFICIAL
 
