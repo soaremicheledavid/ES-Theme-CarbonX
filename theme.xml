@@ -17,7 +17,7 @@ Author: SMD © 2024
       <verticalAlignment>center</verticalAlignment>
     </text>
     <controllerActivity name="controllerActivity">
-      <pos>0.832 0.025</pos>
+      <pos>0.0297 0.010</pos>
       <size>0.085 0.025</size>
       <horizontalAlignment>right</horizontalAlignment>
       <itemSpacing>0.003</itemSpacing>
@@ -27,6 +27,7 @@ Author: SMD © 2024
       <hotkeyColor>ffffff</hotkeyColor>
     </controllerActivity>
     <batteryIndicator name="batteryIndicator">
+         <pos>0.92 0.001</pos>
          <size>0.07 0.050</size>
          <color>ffffff</color>
          <itemSpacing>0</itemSpacing>
@@ -79,7 +80,7 @@ Author: SMD © 2024
     </image>
     <helpsystem name="help">
       <origin>0 0</origin>
-      <pos>0.18 0.94</pos>
+      <pos>0.0220 0.95</pos>
       <textColor>ffffff</textColor>
       <iconColor>ffffff</iconColor>
     </helpsystem>
@@ -113,7 +114,7 @@ Author: SMD © 2024
   <view name="basic, detailed, grid">
     <helpsystem name="help">
       <origin>0 0</origin>
-      <pos>0.16 0.95</pos>
+      <pos>0.0220 0.95</pos>
       <textColor>ffffff</textColor>
       <iconColor>ffffff</iconColor>
     </helpsystem>
